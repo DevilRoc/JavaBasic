@@ -1,2 +1,2 @@
-# JavaBasic
-This is basic tutorial of Java. 
+# Java入门基础
+这是一个个人学习Java所创建的笔记, 所有的概念都以实例化的形式呈现, 帮助理解记忆.

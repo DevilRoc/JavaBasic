@@ -101,7 +101,7 @@ public class CustomerList {
         if (index < 0 || index >= total) {
             return false;
         }
-        for (int i = 0; i + 1 < total; i++) {
+        for (int i = index; i < total - 1 - index; i++) {
             customers[i] = customers[i + 1];
         }
         customers[--total] = null;

@@ -2,7 +2,7 @@
 
 ![](assets/20220730_162726_image.png)
 
-### bean类
+### model层
 ```java
 package com.java.MVC.bean;
 
@@ -66,7 +66,7 @@ public class Customer {
 }
 
 ```
-### 控制层
+### control层
 ```java
 package com.java.MVC.service;
 
@@ -128,7 +128,7 @@ public class CustomerList {
 
 }
 ```
-### UI层
+### view层
 ```java
 package com.java.MVC.ui;
 
